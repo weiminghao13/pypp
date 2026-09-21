@@ -30,9 +30,9 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/pypp"
-"Bug Reports" = "https://github.com/yourusername/pypp/issues"
-Source = "https://github.com/yourusername/pypp"
+Homepage = "https://github.com/weiminghao13/pypp"
+"Bug Reports" = "https://github.com/weiminghao13/pypp/issues"
+Source = "https://github.com/weiminghao13/pypp"
 
 [project.optional-dependencies]
 dev = [
